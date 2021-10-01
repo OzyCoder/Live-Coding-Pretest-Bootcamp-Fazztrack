@@ -1,0 +1,51 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=873&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.container {
+  width:450px;
+  height: 400px;
+  margin:100px auto;
+  text-align: center;
+}
+.container h1 {
+  font-size:64px;
+  font-weight: 500;
+  font-style:italic;
+  color:#355c80;
+}
+.container p {
+  margin-bottom: 20px;
+}
+.wrapper-form {
+  width: 277px;
+  height: 100px;
+  margin-left:auto;
+  margin-right: auto;
+}
+.wrapper-form input, .wrapper-form button {
+  display:block;
+  border-radius: 8px;
+  border:none;
+}
+.wrapper-form input {
+  width:100%;
+  height: 36px;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  outline: none;
+}
+.wrapper-form button{
+  width: 100%;
+  height: 36px;
+  background-color: #355c80;
+  color: rgb(255, 255, 255);
+}
