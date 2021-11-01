@@ -1,2 +1,2 @@
-# Travel Landig Page
+# Travel Landing Page
 Simple Travel Landing Page 
