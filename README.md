@@ -1,2 +1,2 @@
-# Live-Coding-Pretest-Bootcamp-Fazztrack
-Live Coding with Fazztrack
+# Travel Landig Page
+Simple Travel Landing Page 
